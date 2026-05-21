@@ -110,8 +110,6 @@ Senior **Odoo Developer** and **Technical Team Leader** at **CTIT Software** (Je
 </td>
 <td width="52%" align="center">
 
-https://github.com/odoo00/odoo00/raw/main/assets/rules-studio-demo.mp4
-
 <video controls width="100%" src="https://github.com/odoo00/odoo00/raw/main/assets/rules-studio-demo.mp4"></video>
 
 <sub>▶ <a href="https://github.com/odoo00/odoo00/raw/main/assets/rules-studio-demo.mp4">Watch Rules Studio demo</a> · Odoo 17</sub>
