@@ -18,23 +18,14 @@
 
 </div>
 
-> 🔒 **Portfolio display only** — Recruiter-friendly overview. Production client code is private.  
-> **Editing:** GitHub account `odoo00` only.
-
----
+ 
 
 ## 👋 About
 
 Technical Team Leader and Senior Odoo Developer at **CTIT Software** (Jeddah). I deliver full-cycle ERP: requirements, architecture, development, integrations, deployment, and production support — with strong **automation**, **JavaScript/OWL** front ends, and **REST** connectivity.
 
 ---
-
-## ⭐ Flagship Solutions — Full Feature Reference
-
-> Click ▶ to expand each solution. Names below are **business titles** (not technical addon names).
-
----
-
+ 
 <details open>
 <summary><b>📄 1. Dynamic Report Designer</b> — Reporting · No-code QWeb & DOCX</summary>
 
@@ -292,21 +283,4 @@ Corporate · Modern · Formal · Modern Formal · Creative · Minimalist · Retr
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=odoo00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odoo00&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<div align="center">
-
-**Mohsen Sayed Hassan**  
-📱 +20 127 752 3059 · 📧 dev.odooerp@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/mohsen-sayed-hassan-12856a2a7/) · [GitHub](https://github.com/odoo00)
-
-*Portfolio display · Odoo 9–19 · Updated 2026*
-
-</div>
+ 
