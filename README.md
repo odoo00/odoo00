@@ -1,205 +1,441 @@
+<!-- PORTFOLIO DISPLAY PROFILE — Maintained by Mohsen Sayed Hassan only -->
+
 <div align="center">
 
-<img src="assets/erp-platform-banner.png" alt="ERP platform" width="100%"/>
+# Mohsen Sayed Hassan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Mohsen+Sayed+Hassan;Senior+Odoo+Developer;Technical+Team+Leader;Odoo+9+%E2%86%92+19" alt="Typing SVG" />
+### Senior Odoo Developer · Technical Team Leader
+
+📱 **+20 127 752 3059**  
+📧 [dev.odooerp@gmail.com](mailto:dev.odooerp@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/mohsen-sayed-hassan-12856a2a7/) · 🐙 [GitHub](https://github.com/odoo00)
+
+**Odoo 9 → 19** · 9+ years · Egypt · Saudi Arabia · Iraq · **70+ ERP implementations**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsen-sayed-hassan-12856a2a7/)
-[![Email](https://img.shields.io/badge/Email-dev.odooerp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.odooerp@gmail.com)
-[![Odoo](https://img.shields.io/badge/Odoo-9%E2%86%9219-714B67?style=for-the-badge&logo=odoo&logoColor=white)](https://github.com/odoo00)
-[![Location](https://img.shields.io/badge/Region-Egypt+%7C+KSA-238636?style=for-the-badge)](https://github.com/odoo00)
-
-**9+ years on Odoo 9 → 19** · Python · PostgreSQL · JavaScript/OWL · REST APIs · Workflow automation
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsen-sayed-hassan-12856a2a7/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.odooerp@gmail.com)
+[![Odoo](https://img.shields.io/badge/Odoo-9→19-714B67?style=for-the-badge)](https://github.com/odoo00)
 
 </div>
+
+> 🔒 **Portfolio display only** — This page is a recruiter-friendly overview of production work.  
+> Client code lives in private repositories. **Editing access: repository owner only** (GitHub account `odoo00`).
 
 ---
 
 ## 👋 About
 
-Senior **Odoo Developer** and **Technical Team Leader** at **CTIT Software** (Jeddah). I deliver full-cycle ERP: analysis, architecture, custom development, integrations, deployment, and production support across **Egypt, Saudi Arabia, and Iraq**.
-
-**Focus areas:** Saudi compliance (ZATCA, GOSI), eCommerce (Salla, Zid), payment gateways (Geidea), reusable product frameworks, and team leadership for **70+ live implementations**.
+I lead and build **full-cycle Odoo ERP**: requirements, architecture, custom development, integrations, deployment, and support. Focus on **Saudi compliance** (ZATCA, GOSI), **marketplaces** (Salla, Zid), **payment gateways** (Geidea), and **reusable product frameworks** for CTIT and enterprise clients.
 
 ---
 
-## 🏢 Enterprise Projects `15`
+## ⭐ Flagship Solutions — Detailed Overview
 
-<table>
-<thead>
-<tr>
-<th>#</th>
-<th>Project</th>
-<th>Industry</th>
-<th>Odoo</th>
-<th>Role</th>
-<th>What I delivered</th>
-</tr>
-</thead>
-<tbody>
-<tr><td>01</td><td><b>CTIT Official Platform</b></td><td>ERP / SaaS</td><td>9–19</td><td>Team Leader</td><td>Company core product, Saudi EDI, subscriptions, shared frameworks, 70+ clients</td></tr>
-<tr><td>02</td><td><b>CTIT SaaS Hosting</b></td><td>Cloud ERP</td><td>17</td><td>Lead</td><td>Automated hosting, backups, customer onboarding, subscription billing</td></tr>
-<tr><td>03</td><td><b>Al Shatry</b></td><td>Trading / Wholesale</td><td>13 / 17</td><td>Senior</td><td>Full ERP, branches, landed costs, ZATCA e-invoicing</td></tr>
-<tr><td>04</td><td><b>Al Bilady</b></td><td>Retail / Distribution</td><td>16 / 17</td><td>Lead</td><td>Multi-branch sales, inventory, accounting automation, management reports</td></tr>
-<tr><td>05</td><td><b>Mega Trust</b></td><td>Distribution</td><td>17 / 18</td><td>Senior</td><td>Purchase approvals, warehouse visibility, cheques, Salla eCommerce sync</td></tr>
-<tr><td>06</td><td><b>Roya</b></td><td>Multi-branch ERP</td><td>15</td><td>Senior</td><td>Per-branch numbering, tax reporting, custom invoices, HR insurance</td></tr>
-<tr><td>07</td><td><b>Al Suwailim (Vegetables)</b></td><td>Fresh produce</td><td>17</td><td>Senior</td><td>Sales automation, ZATCA, partner connectivity, portal, stock-to-cash cycle</td></tr>
-<tr><td>08</td><td><b>GOSI Compliance</b></td><td>HR / Insurance</td><td>17</td><td>Architect</td><td>Contribution rules, wage engine, audit trail, government API readiness</td></tr>
-<tr><td>09</td><td><b>Bonya Real Estate</b></td><td>Property</td><td>17</td><td>Lead</td><td>Rental contracts, property accounting, Hijri dates, WhatsApp, letters of credit</td></tr>
-<tr><td>10</td><td><b>IQAA Steel Factory</b></td><td>Manufacturing / POS</td><td>17</td><td>Lead</td><td>Arabic POS delivery flow, custom screens, order status tracking</td></tr>
-<tr><td>11</td><td><b>Dabbos</b></td><td>Trading</td><td>17 / 18</td><td>Lead</td><td>Custom sales, purchase, stock reports and salesperson analytics</td></tr>
-<tr><td>12</td><td><b>Aloofy</b></td><td>Retail / F&B</td><td>16</td><td>Senior</td><td>Large retail stack: POS, WhatsApp sales, partners, operational automation</td></tr>
-<tr><td>13</td><td><b>AlMoasher Business</b></td><td>Enterprise</td><td>12–17</td><td>Senior</td><td>Sales, purchase, inventory, accounting, HR customization and security</td></tr>
-<tr><td>14</td><td><b>Capital ERP</b></td><td>ERP (Iraq)</td><td>17</td><td>Senior</td><td>Finance and operations modules, external APIs, go-live support</td></tr>
-<tr><td>15</td><td><b>Healthy (UAE / EG / KSA)</b></td><td>Healthcare</td><td>15</td><td>Developer</td><td>Multi-country rollout and regional business rules</td></tr>
-</tbody>
-</table>
+Click each section to expand. All descriptions reflect **real implemented features** from production modules.
 
 ---
 
-## 🧩 Solutions & Integrations `20`
+<details open>
+<summary><b>📄 Dynamic Report Designer</b> &nbsp;·&nbsp; Reporting &nbsp;·&nbsp; No-code QWeb & DOCX</summary>
 
-> Built with **Python**, **PostgreSQL**, **XML/QWeb**, **OWL/JavaScript**, plus **automation** and **scheduled jobs**
-
-<table>
-<thead>
-<tr>
-<th>Solution</th>
-<th>Category</th>
-<th>Capabilities</th>
-</tr>
-</thead>
-<tbody>
-<tr><td><b>Dynamic Report Designer</b></td><td>Reporting</td><td>No-code QWeb/DOCX reports, multiple corporate layouts, dot-matrix & summaries</td></tr>
-<tr><td><b>Access & Permissions Studio</b></td><td>Security</td><td>Hide menus/fields/buttons/views; live Rules Mode on forms (JavaScript)</td></tr>
-<tr><td><b>REST Application Gateway</b></td><td>Integration</td><td>JWT APIs, scopes, rate limits, webhooks, audit trail for mobile & 3rd parties</td></tr>
-<tr><td><b>Webhook Orchestration</b></td><td>Integration</td><td>Event-driven callbacks tied to sales and messaging flows</td></tr>
-<tr><td><b>ZATCA E-Invoicing</b></td><td>Compliance</td><td>Submit invoices, QR codes, retries, status sync with tax platform</td></tr>
-<tr><td><b>Salla Marketplace Connector</b></td><td>eCommerce</td><td>Products, orders, stock, payments — real-time webhooks</td></tr>
-<tr><td><b>Salla Enterprise Connector</b></td><td>eCommerce</td><td>High-volume sync for distribution clients</td></tr>
-<tr><td><b>Zid Marketplace Connector</b></td><td>eCommerce</td><td>Catalog, orders, shipping & payment method mapping</td></tr>
-<tr><td><b>Sales Order Workflow Automation</b></td><td>Automation</td><td>Confirm order → invoice → validate → deliver (configurable steps)</td></tr>
-<tr><td><b>Geidea Payment Gateway</b></td><td>Payments</td><td>Payment links on quotations/invoices; callback status handling</td></tr>
-<tr><td><b>GOSI Compliance Core</b></td><td>HR / KSA</td><td>Eligibility, rates, wages, contribution preparation & logs</td></tr>
-<tr><td><b>GOSI Government API Layer</b></td><td>HR / API</td><td>Secure multi-connection profiles for future GOSI APIs</td></tr>
-<tr><td><b>CTIT Core Business Pack</b></td><td>Platform</td><td>Saudi EDI, subscriptions, branch sales, portal & pro-forma flows</td></tr>
-<tr><td><b>Dynamic List Column Manager</b></td><td>UI Tools</td><td>Show, hide, reorder and rename list columns without code</td></tr>
-<tr><td><b>Developer Operations Dashboard</b></td><td>Management</td><td>Team KPIs, smart assignment, project health boards</td></tr>
-<tr><td><b>Real Estate Management Suite</b></td><td>Property</td><td>Units, contracts, balances, client statements, Hijri reporting</td></tr>
-<tr><td><b>Rental Contract Lifecycle</b></td><td>Property</td><td>Lease terms, milestones, expenses, partner ledger reports</td></tr>
-<tr><td><b>Hijri Calendar for Odoo UI</b></td><td>Localization</td><td>Hijri picker on forms and lists (JavaScript calendars)</td></tr>
-<tr><td><b>Multi-Branch Document Numbering</b></td><td>Accounting</td><td>Separate sequences per branch for sales, purchase & journals</td></tr>
-<tr><td><b>SaaS Instance Provisioning</b></td><td>DevOps</td><td>Docker-based Odoo stacks, routing, backups, subscription packages</td></tr>
-</tbody>
-</table>
-
----
-
-## 🎬 Highlights
-
-### Access & Permissions Studio
+<br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-- Control what each user sees: menus, fields, buttons, reports
-- **Rules Mode** — configure access directly on the live form
-- Read-only mode, export restrictions, multi-company rules
-- Rich **JavaScript / OWL** front-end behavior
+#### Overview
+Design and publish Odoo reports **without writing Python** — bind any model, pick a visual theme, and replace standard prints with branded layouts.
+
+#### Report types supported
+- Custom, Proforma, Invoice, Vendor Bill, Journal Entry  
+- Quotation, Sale Order, RFQ, Purchase Order, Delivery Note  
+
+#### Core capabilities
+- **Replace existing reports** or register new `ir.actions.report` entries  
+- **Primary vs extended** report modes; header/footer-only layouts  
+- **Per-company** branding: logos, colors, paper format  
+- **Field mapping wizard** — drag logical fields into report sections  
+- **One-section or two-section** summary blocks (left/right alignment)  
+- **Dynamic header & footer** designer independent of body content  
+
+#### Visual themes (ready-made QWeb)
+Corporate · Modern · Formal · Modern Formal · Creative · Minimalist · Retro · Tech · Eco-friendly · CTIT style  
+
+#### Advanced outputs
+- **DOCX template merge** — upload Word templates and map Odoo fields  
+- **Dot-matrix / continuous paper** layouts for legacy printers  
+- **Summary reports** — aggregated operational dashboards on dedicated models  
+- **Custom wizard** flows for one-off report generation  
+
+#### Technical stack
+Python ORM · QWeb · lxml/BeautifulSoup parsing · PDF generation · multi-language field maps  
 
 </td>
-<td width="50%" align="center">
+<td width="45%" align="center">
+
+<img src="assets/feature-report-designer.png" alt="Dynamic Report Designer concept" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+---
+
+<details>
+<summary><b>🔐 Access & Permissions Studio</b> &nbsp;·&nbsp; Security &nbsp;·&nbsp; OWL Rules Mode</summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+#### Overview
+All-in-one **access management** for Odoo — easier than scattered record rules. Control what each user sees and can do, per company.
+
+#### Menu & navigation
+- Hide **menus and sub-menus** per user group  
+- Restrict **apps** visibility  
+- **Disable login** for selected profiles  
+- Block **developer/debug mode**  
+
+#### Field level
+- **Invisible**, **read-only**, **required** field rules  
+- Per-model field lines with domain support  
+- **Link / relational** field restrictions  
+
+#### Views & UI chrome
+- Hide **tree, form, kanban, calendar, pivot, graph** views  
+- Hide **smart buttons**, **object buttons**, **action buttons**  
+- Hide **tabs** and **notebook pages**  
+- **Chatter**: hide entirely or hide send message / log notes / schedule activity  
+
+#### Model-level actions
+- Hide **Create, Edit, Delete, Duplicate, Archive, Unarchive** (global or per model)  
+- Hide **Import, Export, Spreadsheet**  
+- Remove **print actions, server actions, reports** from action menus  
+- **Read-only user** mode for whole system  
+
+#### Search & analytics UI
+- Hide **filters** and **group-by** options per view  
+- Pivot **group menu** restrictions  
+
+#### Rules Mode (JavaScript / OWL) ⭐
+- Edit access rules **in context on the live form** — no separate admin screen  
+- Secure RPC backend: upsert into existing rule models (no duplicate engines)  
+- Drawer UI with user tags, summaries, bilingual help panels  
+- **Tour-tested** OWL components; cache invalidation on save  
+
+#### Multi-company
+Rules scoped to **selected companies**; enforced across registry templates and routing caches.
+
+</td>
+<td width="52%" align="center">
+
+<img src="assets/feature-access-studio.png" alt="Access Studio concept" width="100%"/>
+
+<br/><br/>
 
 <video controls width="100%" src="https://github.com/odoo00/odoo00/raw/main/assets/rules-studio-demo.mp4"></video>
 
-<sub><a href="https://github.com/odoo00/odoo00/raw/main/assets/rules-studio-demo.mp4">▶ Watch demo</a></sub>
+<sub><a href="https://github.com/odoo00/odoo00/raw/main/assets/rules-studio-demo.mp4">▶ Rules Mode demo video</a></sub>
 
 </td>
 </tr>
 </table>
+
+</details>
 
 ---
 
-### Dynamic Report Designer
+<details>
+<summary><b>🌐 REST Application Gateway</b> &nbsp;·&nbsp; Integration &nbsp;·&nbsp; JWT & fine-grained API</summary>
+
+<br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-- Build invoices, contracts, and operational reports without Python
-- Multiple ready-made visual themes
-- DOCX merge and specialized print layouts
-- Company-specific headers, footers, and branding
+#### Overview
+Universal **REST API layer** for Odoo — mobile apps, portals, and third-party systems authenticate once and call approved business methods safely.
+
+#### Application registry
+- **Client ID & secret** auto-generated per integration  
+- **JWT HS256** access tokens + refresh tokens (configurable TTL)  
+- Rotate secrets without redeploying Odoo  
+- Enable/disable applications instantly  
+
+#### Security & governance
+- **Scope per model**: read / create / write / unlink / call  
+- **Allowed methods registry** — slug, target model, Python method name  
+- **Rate limit policies** — requests per time window per app  
+- **CORS allowed origins** for browser clients  
+- **Audit log** of API calls (who, what, when, payload metadata)  
+
+#### Developer experience
+- Postman collections shipped (`FULL JWT`, menu access)  
+- Flutter menu-key documentation for mobile teams  
+- Premium backend UI styling for operators  
+- **Post-init seed** of gateway template data  
+
+#### Typical use cases
+- Field sales app confirming quotations  
+- Warehouse handheld validating pickings  
+- External CRM pushing partners and orders  
+- PickAppo / logistics status callbacks (via companion webhooks)  
 
 </td>
-<td width="50%" align="center">
+<td width="45%" align="center">
 
-<img src="assets/report-designer-concept.png" alt="Report designer concept" width="420"/>
+<img src="assets/feature-api-gateway.png" alt="API Gateway concept" width="100%"/>
 
 </td>
 </tr>
 </table>
+
+</details>
 
 ---
 
-### Integrations & Automation Hub
+<details>
+<summary><b>🔔 Webhook Extensions</b> &nbsp;·&nbsp; Integration &nbsp;·&nbsp; Event-driven outbound</summary>
+
+<br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-- **ZATCA** · **Salla** · **Zid** · **Geidea** · mobile/logistics apps
-- Automated sales, stock, and billing pipelines
-- REST security: tokens, scopes, logging
-- Production monitoring and error recovery
+#### Overview
+Extends the REST gateway with **outbound webhooks** — Odoo pushes signed JSON when records change, so external systems stay in sync without polling.
+
+#### Webhook configuration
+- **HTTPS callback URL** per integration  
+- **HMAC-SHA256 signing** (`X-Webhook-Signature`) with rotatable token  
+- **SSL verification** toggle · configurable **timeout**  
+- **Allowed hosts** allowlist (blocks SSRF to untrusted domains)  
+- **Max payload size** guard (KB)  
+
+#### Event subscriptions (per model)
+- Fire on **create**, **update**, **delete** (independent toggles)  
+- Choose **included fields** in payload (or id + display_name only)  
+- **Immediate send** or **queued via cron** for reliability  
+
+#### Delivery engine
+- **Retry with exponential backoff** (max attempts, base/max seconds)  
+- Delivery history & status tracking  
+- **Payload preview** UI for debugging before go-live  
+- Dispatcher cache invalidation on rule changes  
+
+#### Receiver documentation
+- Standalone Python receiver example  
+- Arabic guide for webhook secret setup (`WEBHOOK_SECRET_EXPLAINED_AR`)  
+
+#### Works with
+Sales orders, stock moves, invoices — any model registered in event lines; pairs with REST gateway apps.
 
 </td>
-<td width="50%" align="center">
+<td width="45%" align="center">
 
-<img src="assets/integrations-concept.png" alt="Integrations concept" width="420"/>
+<img src="assets/feature-webhooks.png" alt="Webhooks concept" width="100%"/>
 
 </td>
 </tr>
 </table>
+
+</details>
+
+---
+
+<details>
+<summary><b>🛒 Salla Marketplace Connector (CTIT)</b> &nbsp;·&nbsp; eCommerce &nbsp;·&nbsp; Webhooks & multichannel</summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+#### Overview
+Connect **Salla** Saudi stores to Odoo — orders, customers, payments, and shipping flow into Sales and Stock with webhook-driven updates.
+
+#### Store connection
+- OAuth-style **Salla authentication** route (`/salla/authenticate`)  
+- **Verification key** per channel instance  
+- Multi-store **channel** records with state (connected / error)  
+- Redirect back to Odoo channel form after token exchange  
+
+#### Webhook security
+- Public endpoint `/salla/webhook` (JSON)  
+- **HMAC signature** validation (`X-Salla-Signature` vs configured secret)  
+- Rejects unauthorized payloads with HTTP 401  
+
+#### Order events handled
+| Event | Action |
+|-------|--------|
+| `order.created` | Create/update sale order, partner, lines |
+| `order.updated` | Sync line & header changes |
+| `order.status.updated` | Map Salla status slug → Odoo workflow states |
+
+#### Master data sync
+- Auto-create **delivery companies** from Salla shipping payload  
+- Auto-create **payment methods** (incl. COD Arabic label)  
+- Customer name, mobile, city, **UTM source** preserved  
+- **Merchant / store ID** resolution with fallback via existing `salla_id` on SO  
+
+#### Sales integration
+- `create_or_update_from_salla` on sale.order  
+- Status mapper for manual or webhook-driven state transitions  
+- Channel-specific configuration & menus in Odoo backend  
+
+</td>
+<td width="45%" align="center">
+
+<img src="assets/feature-salla.png" alt="Salla integration concept" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+---
+
+<details>
+<summary><b>🏪 Zid Marketplace Connector</b> &nbsp;·&nbsp; eCommerce &nbsp;·&nbsp; Catalog & orders</summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+#### Overview
+Full **Zid** marketplace integration for Saudi eCommerce — OAuth callback, product catalog sync, and guarded sales confirmation in Odoo.
+
+#### Channel management
+- OAuth **redirect & callback** routes (`/redirect`, `/callback`)  
+- **Refresh token** maintenance job  
+- Per-channel dashboards: products, partners, invoices, quotations, orders  
+- **Error details** log view for failed API calls  
+
+#### Sync operations (on demand)
+- **Products** — SKU mapping and bundle detection  
+- **Payment methods** — Zid codes linked to Odoo  
+- **Shipping methods** — delivery options imported  
+- **Orders** — bulk order pull into sale.order with Zid metadata  
+
+#### Sale order intelligence
+- Flags: `zid`, `zid_id`, `zid_code`, `store_id`, `order_url`, `store_name`  
+- **Amount mismatch warning** — compares Zid total string vs Odoo total  
+- **Offer order** flag for promotional orders  
+- **Unique line guard** — blocks duplicate product+route combinations (non-Zid orders)  
+
+#### Access control
+- Dedicated **Zid Manager** / **Zid User** groups  
+- Only authorized users may **confirm** Zid-originated orders  
+
+#### Invoice bridge
+- **Set invoice branch wizard** — assign fiscal branch before posting  
+- Invoice views linked to channel for reconciliation  
+
+</td>
+<td width="45%" align="center">
+
+<img src="assets/feature-zid.png" alt="Zid integration concept" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+---
+
+## 🏢 More Enterprise Projects
+
+<details>
+<summary><b>View all 15 client projects</b></summary>
+
+| # | Project | Industry | Odoo | Role |
+|---|---------|----------|------|------|
+| 01 | CTIT Official Platform | ERP / SaaS | 9–19 | Team Leader |
+| 02 | CTIT SaaS Hosting | Cloud | 17 | Lead |
+| 03 | Al Shatry | Trading | 13/17 | Senior |
+| 04 | Al Bilady | Retail | 16/17 | Lead |
+| 05 | Mega Trust | Distribution | 17/18 | Senior |
+| 06 | Roya | Multi-branch | 15 | Senior |
+| 07 | Al Suwailim (Vegetables) | Produce | 17 | Senior |
+| 08 | GOSI Compliance | HR / KSA | 17 | Architect |
+| 09 | Bonya Real Estate | Property | 17 | Lead |
+| 10 | IQAA Steel / POS | Manufacturing | 17 | Lead |
+| 11 | Dabbos | Trading | 17/18 | Lead |
+| 12 | Aloofy | Retail / F&B | 16 | Senior |
+| 13 | AlMoasher | Enterprise | 12–17 | Senior |
+| 14 | Capital ERP | Iraq | 17 | Senior |
+| 15 | Healthy (AE/EG/KSA) | Healthcare | 15 | Developer |
+
+</details>
+
+---
+
+## 🧩 More Solutions (14 additional)
+
+<details>
+<summary><b>View 20-solution portfolio index</b></summary>
+
+| Solution | Category |
+|----------|----------|
+| Sales Order Workflow Automation | Automation |
+| Geidea Payment Gateway | Payments |
+| GOSI Compliance Core | HR / KSA |
+| GOSI Government API Layer | HR / API |
+| CTIT Core Business Pack | Platform |
+| Dynamic List Column Manager | UI |
+| Developer Operations Dashboard | Management |
+| Real Estate Management Suite | Property |
+| Rental Contract Lifecycle | Property |
+| Hijri Calendar for Odoo UI | Localization |
+| Multi-Branch Document Numbering | Accounting |
+| SaaS Instance Provisioning | DevOps |
+| Salla Enterprise Connector (Mega) | eCommerce |
+| PickAppo / Logistics REST bridge | Logistics |
+
+</details>
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,postgresql,docker,linux,git&theme=dark" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=python,js,postgresql,docker,linux,git&theme=dark"/>
 </p>
 
-**Odoo 9 → 19** · OWL · QWeb · REST · Docker · Linux · Agile leadership
+**Python · Odoo ORM · PostgreSQL · OWL/JavaScript · QWeb · XML · REST · Docker · Linux · Automation · Cron · Server Actions**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=odoo00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odoo00&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=odoo00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odoo00&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 📫 Contact
-
-| | |
-|---|---|
-| 💼 **LinkedIn** | [linkedin.com/in/mohsen-sayed-hassan-12856a2a7](https://www.linkedin.com/in/mohsen-sayed-hassan-12856a2a7/) |
-| 📧 **Email** | [dev.odooerp@gmail.com](mailto:dev.odooerp@gmail.com) |
-| 📱 **Phone** | +20 127 752 3059 |
 
 ---
 
 <div align="center">
 
-*Production client work lives in private repositories · This profile is a recruiter-friendly overview.*
+**Mohsen Sayed Hassan** · +20 127 752 3059 · [dev.odooerp@gmail.com](mailto:dev.odooerp@gmail.com)
 
-⭐ Stars are appreciated.
+[LinkedIn](https://www.linkedin.com/in/mohsen-sayed-hassan-12856a2a7/) · [GitHub](https://github.com/odoo00)
+
+*Last updated: 2026 · Portfolio display repository*
 
 </div>
